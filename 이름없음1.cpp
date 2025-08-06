@@ -6,7 +6,8 @@ int main() {
 	else
 		printf("B");
 		
-getchar();
-return 0;
+	getchar();
+	return 0;
 }
+
 
